@@ -6,10 +6,3 @@ I have designed a gripper to be mounted on a robot-arm on the strawberry harvest
 ![image](https://github.com/smartfarmdiy/Gripper-For-Strawberry-harvesting-robot/assets/63504401/e3708396-e74a-4900-a719-4d56a54ee5df)
 ![image](https://github.com/smartfarmdiy/Gripper-For-Strawberry-harvesting-robot/assets/63504401/3ce69b8f-bd7e-45ad-b97e-cf0007c5cf0d)
 
-* gaypeem
-
-<pre>
-  print("Hello Gay")
-</pre>
-
-[ROS](https://www.ros.org/)
